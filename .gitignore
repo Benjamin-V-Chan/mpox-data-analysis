@@ -1,0 +1,119 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+.venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+.history/
+
+# PyCharm settings
+.idea/
+
+# Data files
+data/*.csv
+data/*.xlsx
+data/*.json
+data/*.parquet
+data/*.hdf5
+data/*.pkl
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Temporary files and directories
+*.temp
+*.tmp
+*.swp
+*.swo
+*~
+
+# Output directories and files
+output/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.tiff
+*.pdf
+*.mp4
+*.avi
+*.mov
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook metadata
+**/.ipynb_checkpoints
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Test results and coverage
+.pytest_cache/
+.cache/
+coverage/
+coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pylint
+pylint.log
+
+# Environment variables
+.env
+.env.*
+
+# AWS credentials
+.aws/
+
+# Spyder project settings
+.spyproject/
+.spydata/
+
+# Pyright settings
+.pyright/
+
+# Jupyter Notebook custom configuration
+jupyter_notebook_config.py
+
+# Profiling data
+.prof/
