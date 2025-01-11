@@ -1,4 +1,4 @@
-# Mpox Data Analysis
+# Data Science Mpox
 
 ## Description
 This project involves the analysis and visualization of global mpox case and death data. The dataset, provided by the World Health Organization (WHO), includes country-wise data on mpox cases, deaths, and trends. The goal of this project is to derive insights and trends from the provided data to support public health analysis and decision-making.
